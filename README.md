@@ -38,5 +38,4 @@ README.md    → this file
 ## Tools
 VS Code • Chrome • Live Server extension
 
-## Screenshots
-Add your desktop and mobile screenshots here (e.g. `screenshot-desktop.png`, `screenshot-mobile.png`).
+
